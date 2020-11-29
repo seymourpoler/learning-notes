@@ -5,4 +5,7 @@ Books
 
 Articles
 
-Videos
+###Videos
+
+
+* [Deliveritis Aguda](Videos/Deliveritis.Aguda.by.Carlos.Buenosvinos.md) by **Carlos Buenosvinos**, 2019.
