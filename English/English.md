@@ -1,3 +1,5 @@
 [Conditionals](https://www.youtube.com/watch?v=uDoBdq0s8eY)
 [Mixed Conditionals](https://www.youtube.com/watch?v=_Mv7fBqauvc)
-[Futures](https://www.youtube.com/watch?v=0-6ZBRkZKWI)
+[Types of futures](https://www.youtube.com/watch?v=0-6ZBRkZKWI)
+[Clock Reading](https://www.youtube.com/watch?v=-fCcdzHj7fg)
+[Pronunciation for regular verbs](https://www.youtube.com/watch?v=DyAp3-H62ow)
