@@ -4,4 +4,6 @@
 [Clock Reading](https://www.youtube.com/watch?v=-fCcdzHj7fg)\
 [Pronunciation for regular verbs](https://www.youtube.com/watch?v=DyAp3-H62ow)\
 [Used to, to be used to, to get used to](https://www.youtube.com/watch?v=JNjhav6TaB0)\
-[so do I, neither do I](https://www.youtube.com/watch?v=i7bbipMJiJw)[ and a example](https://www.youtube.com/watch?v=esml6XQVjEo)
+[So do I, neither do I](https://www.youtube.com/watch?v=i7bbipMJiJw)[ and a example](https://www.youtube.com/watch?v=esml6XQVjEo)\
+[May and might](https://www.youtube.com/watch?v=gQbjkYwhUt8)
+[Can, could and to be able to](https://www.youtube.com/watch?v=IyPH-lHuMTc)
