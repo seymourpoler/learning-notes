@@ -1,4 +1,4 @@
-[How to learn english | Why English is an Art](https://www.youtube.com/watch?v=78YC_9qcs6k)\
+[How to learn english | Why English is an Art](https://www.youtube.com/watch?v=78YC_9qcs6k)
 
 [Conditionals](https://www.youtube.com/watch?v=uDoBdq0s8eY)\
 [Mixed Conditionals](https://www.youtube.com/watch?v=_Mv7fBqauvc)\
