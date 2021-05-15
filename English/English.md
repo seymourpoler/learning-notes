@@ -11,4 +11,5 @@
 [May and might](https://www.youtube.com/watch?v=gQbjkYwhUt8)\
 [Can, could and to be able to](https://www.youtube.com/watch?v=IyPH-lHuMTc)\
 [Still, yet & already](https://www.youtube.com/watch?v=6Qa-GiJtOz8)\
-[Whether vs If](https://www.youtube.com/watch?v=BFrtCR30Un8)
+[Whether vs If](https://www.youtube.com/watch?v=BFrtCR30Un8)\
+[Reported speech](https://www.youtube.com/watch?v=oOxcIbk_F1M)
