@@ -1,7 +1,8 @@
 [How to learn english | Why English is an Art](https://www.youtube.com/watch?v=78YC_9qcs6k)\
 [How to Use YouTube to Learn a New Language](https://www.youtube.com/watch?v=DItgEwqKF94)\
 [How To Learn Languages At Home (From Zero To Fluency In 5 Steps)](https://www.youtube.com/watch?v=qmhkzM6MurU)\
-[How to REALLY learn a language in 2022](https://www.youtube.com/watch?v=lucR1kzUsoo)
+[How to REALLY learn a language in 2022](https://www.youtube.com/watch?v=lucR1kzUsoo)\
+[3 tips for learning a language effectively on your own](https://www.youtube.com/watch?v=5aFOUMx5RlQ)
 
 [Conditionals](https://www.youtube.com/watch?v=uDoBdq0s8eY)\
 [Mixed Conditionals](https://www.youtube.com/watch?v=_Mv7fBqauvc)\
