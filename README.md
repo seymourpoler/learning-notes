@@ -4,7 +4,7 @@ it is my learning resources notes (inspired by https://github.com/keyvanakbary/l
 Books
 
 ### Articles
-* [Hexgonal Archtecture](Articles/Hexagonal.Architecture.by.Juan.Manuel.Garrido.Paz.md) by **Juan Manuel Garrido Paz**, 2020.
+* [Hexagonal Archtecture](Articles/Hexagonal.Architecture.by.Juan.Manuel.Garrido.Paz.md) by **Juan Manuel Garrido Paz**, 2020.
 
 
 ### Videos
