@@ -15,3 +15,7 @@ Books
 
 ### English
 * [English](English/English.md)
+
+
+### Other stuff
+* [mechanical keyboards](types.of.mechanical.keyboards.jpeg)
