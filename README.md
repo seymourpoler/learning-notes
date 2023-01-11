@@ -19,3 +19,5 @@ Books
 
 ### Other stuff
 * [mechanical keyboards](types.of.mechanical.keyboards.jpeg)
+* [vim](vim.md)
+* [typing](Typing.md)
