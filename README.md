@@ -21,3 +21,4 @@ Books
 * [mechanical keyboards](types.of.mechanical.keyboards.jpeg)
 * [vim](vim.md)
 * [typing](Typing.md)
+* [focus by Leo Babauta](focus.by.leo.Babauta.md)
