@@ -1,0 +1,24 @@
+CLEAN CODE videos
+
+---- 02.NAMES ----
+- Big scopes means big names, on the other hand, small scopes, small names. (The Scope Rule)
+- Reveal intention.
+- Avoid names with encoding, for example, adding the type of the variable in the name.
+- pronounceable names,  it meams that we can read them.
+- Method as verb, classe as name, property as name. It is like writing a sentence.
+- Methods in public classes should be short, because are called from different contexts, but private methods should be long because they are more descriptives containing all the needed information.
+
+---- 03.FUNCTIONS ----
+- Functions should do one thing. (Curly's Law)
+- Functions should be small. Between 4 or 6 lines of code?  it reduces loading cognitive. A huge number of well-named functions is better than a few large functions.
+- Functions should have a one level of abstraction.
+- Performance is not the most important thing, the most important thing is the readability of the code. But in some environments, performance is important, like embedded systems.
+(The Stepdown Rule)
+
+---- 04.FUNCTIONS STRUCTURE ----
+- Function arguments: The ideal number of arguments is zero, three is the limit.
+- Avoid flag arguments, because this function does more than one thing. On the other hand, it is better to create two separate functions, one for the trude case and another for the false case.
+- Avoid null arguments, it is exactly the same as flag arguments. One behavour for null and another for not null.
+- Defensive programming is a smell. In a public API it is completely valid, but in other situations it means that i don't trust in the code.
+- Avoid out arguments, because it is better to return a value and not modify the in arguments. It could produce side effects.
+- The stepdown rule: the most important thing should be at the top of the function and the details should be at the bottom.
