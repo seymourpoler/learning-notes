@@ -12,6 +12,7 @@ Books
 * [Monolithic Modular](Videos/Monolithic.Modular.by.Simon.Brown.md) by **Simon Brown** 2018.
 * [To Pair or Not to Pair: Pair Programming](Videos/To.pair.or.not.to.pair.by.Birgitta.Bockeler.md) by **Birgitta Bockeler** 2019.
 * [My life as a Monk](Videos/My.Life.as.a.Monk.Part.2.by.Andy.Puddicombe.md) by **Andy Puddicombe** 2020
+* [Clean Code](Videos/clean.code.episodes.by.Rober.Martin) bt **Robert C. Martin ** 2011.
 
 ### English
 * [English](English/English.md)
