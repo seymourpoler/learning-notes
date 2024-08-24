@@ -19,6 +19,22 @@ CLEAN CODE videos
 - Function arguments: The ideal number of arguments is zero, three is the limit.
 - Avoid flag arguments, because this function does more than one thing. On the other hand, it is better to create two separate functions, one for the trude case and another for the false case.
 - Avoid null arguments, it is exactly the same as flag arguments. One behavour for null and another for not null.
-- Defensive programming is a smell. In a public API it is completely valid, but in other situations it means that i don't trust in the code.
-- Avoid out arguments, because it is better to return a value and not modify the in arguments. It could produce side effects.
-- The stepdown rule: the most important thing should be at the top of the function and the details should be at the bottom.
+- Defensive programming is a smell. In a public API it is completely valid, but in other situations it means that I don't trust in the code neither in the tests.
+- Avoid out arguments, because it is better to return a value and not modify in arguments. It could produce side effects.
+- The stepdown rule: the most important thing should be at the top of the class and the details should be at the bottom.
+- Switch statements: it is a smell, it is better to use polymorphism (strategy pattern)
+- To remove `Temporary C8oupling`, we could use the pattern `passing a block`
+- CQS, Command Query Segregration: split functions that can change the state of system and should not return a value (commands) and others that can't and should return a value (queries).
+- Tell Don't Ask: it is better to tell the object what to do instead of asking the object for information and then doing something with it. It closely related to `the      law of Demeter`.
+- Law of Demeter: a method of an object should only call methods of:
+  - itself
+  - its parameters
+  - any objects it creates
+  - its direct component objects
+- Avoid return in the middle of a loop, because it is hard to understand the flow of the code.
+- Use error handling instead of returning error codes.
+- Try should be at the top of the function even before variables declaration.
+- Error handling in a responsability for a function.
+
+
+---- 05.FORMS ----
